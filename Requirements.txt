@@ -1,0 +1,10 @@
+
+Reinforcement Learning for Cloud Resource Allocation
+
+Requirements : 
+
+numpy>=1.23
+gymnasium>=0.29
+stable-baselines3>=2.1.0
+shimmy>=2.0
+torch
